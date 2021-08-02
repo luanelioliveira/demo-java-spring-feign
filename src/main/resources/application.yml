@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: booksearch
+    version: @project.version@
+    description: @project.description@
+

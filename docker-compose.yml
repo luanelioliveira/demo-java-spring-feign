@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  booksearch:
+    build: .
+    container_name: booksearch-app
+    ports:
+      - "8080:8080"
