@@ -35,6 +35,6 @@ $ mvn spring-boot:run
 
 ## Docs
 
-#### Library API
+#### Book Serach API
 
 http://localhost:8080/swagger-ui.html
